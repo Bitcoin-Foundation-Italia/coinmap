@@ -1,5 +1,6 @@
 #
 # Copyright (c) 2013-2014 Pavol Rusnak <stick@gk2.sk>
+# Copyright (c) 2015 Carlo Stemberger <carlo.stemberger@gmail.com>
 #
 # This file is part of Coinmap
 #

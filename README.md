@@ -1,12 +1,11 @@
 coinmap
 =======
 
-<http://coinmap.org/>
+<http://coinmap.io/>
 
 Map showing places where you can use Bitcoin.
 
-Donations welcome at:
-* 1BnpG4jddgNXsQBQjsU8BS3F1Ubm9XgVah (Bitcoin)
+Donations [welcome](https://greenaddress.it/pay/GA4Br1JxWxVsfuFhRXgGXtjjPUunMK/)
 
 * Licensed under [Affero General Public License 3](http://www.gnu.org/licenses/agpl-3.0.html)
 * Map Data © by [OpenStreetMap contributors](http://www.openstreetmap.org/copyright)
